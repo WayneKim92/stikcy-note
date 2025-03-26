@@ -1,4 +1,4 @@
-제1회 Electron 세미나에서 만든 앱 입니다.
+Electron 연습용 앱.
 
 node.js 설치되 환경에서
 npm install -g electron
@@ -18,15 +18,3 @@ https://github.com/electron/electron/releases
 압축 해제하여 생긴 폴더 내에 있는 electron.exe 파일을 실행합니다.
 
 electron.exe로 실행할 경우 root 폴더가 프리빌드 바이너리 폴더입니다.  그래서 상대경로를 사용하게 될 경우 에러가 발생할 수 있습니다.
-
-
-부산 자바스크립트(부자) 모임 있어요.
-이메일 sumel014@naver.con
-
-뻔뻔한게 미덕은 아니지만 ... 사용해보시면 알겠지만
-
-몇가지 버그 있어요.
-
-포크하신 다음에 풀리퀘스트 날려주시면 감사하겠습니다.
-
-그럼 이만 ㅎㅎ
